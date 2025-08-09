@@ -1,4 +1,5 @@
-Webform data entry, validation, and database storage.
+#Webform data entry, validation, and database storage.
+
 You are required to create a PHP application which allows a user to register new users in a MySQL
 database table via a web form. Each user data item must be validated against a valid data specification
 before being allowed to be stored in the database. If data is valid when the form submit button is pressed,
